@@ -1,10 +1,10 @@
-# 📚 Sistem Manajemen Perpustakaan (Laravel)
+# Sistem Manajemen Perpustakaan (Laravel)
 
 Project ini merupakan aplikasi **Sistem Manajemen Perpustakaan** berbasis Laravel yang digunakan untuk mengelola data anggota, buku, serta fitur export dan pencarian data.
 
 - Nama: Najwa Armia Zahra
 - NIM: 60324002
-- 
+  
 ---
 
 ## 🚀 Fitur Utama
