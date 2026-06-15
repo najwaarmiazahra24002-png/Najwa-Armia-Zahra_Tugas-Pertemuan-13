@@ -7,9 +7,9 @@ Project ini merupakan aplikasi **Sistem Manajemen Perpustakaan** berbasis Larave
   
 ---
 
-## 🚀 Fitur Utama
+## Fitur Utama
 
-### 📌 Tugas 1 - Auto Generate Kode Anggota (30%)
+### Tugas 1 - Auto Generate Kode Anggota (30%)
 - Kode anggota otomatis dengan format:
   AGT-[TAHUN]-[NOMOR_URUT] : AGT-2026-001
   
@@ -19,7 +19,7 @@ Project ini merupakan aplikasi **Sistem Manajemen Perpustakaan** berbasis Larave
 
 ---
 
-### 📌 Tugas 2 - Export Data Anggota ke Excel (40%)
+### Tugas 2 - Export Data Anggota ke Excel (40%)
 - Export data anggota ke file Excel
 - Menggunakan package: maatwebsite/excel
 - File hasil export:
@@ -37,7 +37,7 @@ Project ini merupakan aplikasi **Sistem Manajemen Perpustakaan** berbasis Larave
 
 ---
 
-### 📌 Tugas 3 - Advanced Search & Filter (30%)
+### Tugas 3 - Advanced Search & Filter (30%)
 - Pencarian berdasarkan:
 - Nama
 - Email
