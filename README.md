@@ -12,10 +12,9 @@ Project ini merupakan aplikasi **Sistem Manajemen Perpustakaan** berbasis Larave
 ### Tugas 1 - Auto Generate Kode Anggota (30%)
 - Kode anggota otomatis dengan format:
   AGT-[TAHUN]-[NOMOR_URUT] : AGT-2026-001
+- Reset nomor otomatis setiap tahun
   
   ![T1](Tugas1.png)
-  
-- Reset nomor otomatis setiap tahun
 
 ---
 
